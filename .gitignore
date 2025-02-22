@@ -1,0 +1,9 @@
+data/
+*.csv
+*.xlsx
+
+venv/
+__pycache__/
+
+models/*.pkl
+models/*.h5
