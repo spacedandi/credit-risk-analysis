@@ -2,7 +2,7 @@
 HEYY🤸, this is Zijun, and welcome to my Git page.😘😘
 
 ## 🔎Project Overview
-In the modern financial world, loaning involves the risk that some people will pay back while others default. This project aims to use Python and machine learning to build a model that accurately predicts whether a borrower is likely to default on a loan from a bank's perspective.
+In the modern financial world, loaning involves the risk that some people will pay back while others default. This project aims to use Python and machine learning to build a model that predicts whether a borrower is likely to default on a loan from a bank's perspective.
 
 ## 🥸Getting Started
 - To start cooking, ensure you have Python installed (VS Code used). Then, clone the repo and install dependencies.
@@ -28,5 +28,5 @@ In the modern financial world, loaning involves the risk that some people will p
 - **NumberOfDependents**: Number of dependents in the household excluding oneself (spouse, children, etc.)
 
 ## 🌌Further Step
-- Perform more EDA on more interesting variables, or use a pairplot to to gain more insights
-- Use different predictive models and compare them. (XGBoost)
+- Perform more explorations on more interesting variables, or use a pairplot to to gain more insights;
+- Use different predictive models and compare them (XGBoost).
